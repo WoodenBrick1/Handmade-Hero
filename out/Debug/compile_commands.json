@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/woodenbrick/Programming/C-Projects/Sdl-Testing/out/Debug",
+  "command": "/usr/bin/cc  -isystem /usr/include/SDL2 -g -o CMakeFiles/square.dir/main.c.o -c /home/woodenbrick/Programming/C-Projects/Sdl-Testing/main.c",
+  "file": "/home/woodenbrick/Programming/C-Projects/Sdl-Testing/main.c",
+  "output": "CMakeFiles/square.dir/main.c.o"
+}
+]

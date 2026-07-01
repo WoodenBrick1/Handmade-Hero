@@ -1,0 +1,3 @@
+/home/woodenbrick/Programming/C-Projects/Sdl-Testing/out/Debug/CMakeFiles/square.dir
+/home/woodenbrick/Programming/C-Projects/Sdl-Testing/out/Debug/CMakeFiles/edit_cache.dir
+/home/woodenbrick/Programming/C-Projects/Sdl-Testing/out/Debug/CMakeFiles/rebuild_cache.dir
